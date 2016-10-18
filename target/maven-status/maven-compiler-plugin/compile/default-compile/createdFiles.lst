@@ -1,0 +1,17 @@
+models/User.class
+dao/SetupDao.class
+conf/StartupActions.class
+conf/Module.class
+conf/Routes.class
+controllers/LoginLogoutController.class
+dao/ArticleDao.class
+controllers/ArticleController.class
+models/Article.class
+controllers/ApplicationController.class
+dao/UserDao.class
+models/ArticleDto.class
+etc/LoggedInUser.class
+filters/LoggerFilter.class
+models/ArticlesDto.class
+etc/LoggedInUserExtractor.class
+controllers/ApiController.class
